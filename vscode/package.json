@@ -1,0 +1,23 @@
+{
+    "name": "Vegetation",
+    "publisher": "samlazrak",
+    "displayName": "Vegetation",
+    "description": "Vegetation is a dark theme for people who like greens, browns, and yellows.",
+    "version": "1.0.0",
+    "repository": "https://github.com/samlazrak/Vegetation",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vegetation",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vegetation-color-theme.json"
+            }
+        ]
+    }
+}
