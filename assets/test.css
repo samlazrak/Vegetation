@@ -1,0 +1,22 @@
+.container { margin: 0 5%; }
+body { font-family: sans-serif; }
+
+.codebox {
+  margin-bottom: 16px;
+}
+
+.codebox-header, .codetabs-header {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #fff;
+  //border-radius: 6px 6px 0 0;
+  background: lighten($gray, 10%);
+}
+
+%clearfix {
+  &:before,
+  &:after {
+    content: " ";
+    display: table;
+  }
+  &:after {

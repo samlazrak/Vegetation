@@ -32,10 +32,11 @@
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
 5. Select **Preferences: Color Theme** and choose Vegetation.
-6. Enjoy! 🎉 Also, check out some of the personalization options below...
+6. Enjoy!
 
 ---
 
+Going to the [marketplace](https://marketplace.visualstudio.com/items?itemName=samlazrak.Vegetation) also works!
 ### Visit [samlazrak.com](https://samlazrak.com/vegetation) for previews and a color reference!
 
 [MIT](LICENSE) © [Sam Lazrak](https://github.com/samlazrak)
