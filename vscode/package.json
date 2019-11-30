@@ -3,11 +3,11 @@
     "publisher": "samlazrak",
     "displayName": "Vegetation",
     "description": "Vegetation is a dark theme for people who like greens, browns, and yellows.",
-    "version": "1.2.0",
-    "icon": "https://i.imgur.com/doPHPPE.png",
+    "version": "1.1.0",
+    "icon": "images/icon.png",
     "galleryBanner": {
-      "color": "#c78547",
-      "theme": "dark"
+        "color": "#c78547",
+        "theme": "dark"
     },
     "repository": "https://github.com/samlazrak/Vegetation",
     "license": "MIT",
