@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://samlazrak.com/Vegetation">
+  <a href="https://samlazrak.com/vegetation">
     <img alt="horizon banner" src="https://i.imgur.com/Ryvww8b.png">
   </a>
 </p>
@@ -28,15 +28,15 @@
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
-2. Search for `Vegetation`
+2. Search for `vegetation`
 3. Click **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧⌘P`
-5. Select **Preferences: Color Theme** and choose Vegetation.
+5. Select **Preferences: Color Theme** and choose vegetation.
 6. Enjoy!
 
 ---
 
-Going to the [marketplace](https://marketplace.visualstudio.com/items?itemName=samlazrak.Vegetation) also works!
-### Visit [samlazrak.com](https://samlazrak.com/Vegetation) for previews and a color reference!
+Going to the [marketplace](https://marketplace.visualstudio.com/items?itemName=samlazrak.vegetation) also works!
+### Visit [samlazrak.com](https://samlazrak.com/vegetation) for previews and a color reference!
 
 [MIT](LICENSE) © [Sam Lazrak](https://github.com/samlazrak)
