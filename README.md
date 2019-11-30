@@ -26,7 +26,7 @@
 </p>
 
 ### Syntax
-* ![#5c6370](https://placehold.it/15/5c6370/000000?text=+) Asparagus
+* ![#83a06c](https://placehold.it/15/83a06c/000000?text=+) Asparagus
 * ![#1f1f1f](https://placehold.it/15/1f1f1f/000000?text=+) Mine Shaft
 * ![#f07178](https://placehold.it/15/f07178/000000?text=+) Froly
 * ![#ebc17a](https://placehold.it/15/ebc17a/000000?text=+) Rob Roy
