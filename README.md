@@ -25,6 +25,19 @@
   <img alt="preview" src="https://i.imgur.com/NnnD9Xu.png" width="90%">
 </p>
 
+### Syntax
+* ![#5c6370](https://placehold.it/15/5c6370/000000?text=+) Asparagus
+* ![#1f1f1f](https://placehold.it/15/5c6370/000000?text=+) Mine Shaft
+* ![#f07178](https://placehold.it/15/5c6370/000000?text=+) Froly
+* ![#ebc17a](https://placehold.it/15/5c6370/000000?text=+) Rob Roy
+* ![#769baa](https://placehold.it/15/5c6370/000000?text=+) Gumbo
+* ![#b06698](https://placehold.it/15/5c6370/000000?text=+) Tapestry
+* ![#9ac2be](https://placehold.it/15/5c6370/000000?text=+) Shadow Green
+* ![#e1f3e7](https://placehold.it/15/5c6370/000000?text=+) Apple Green
+* ![#bb90d8](https://placehold.it/15/5c6370/000000?text=+) Light Wisteria
+* ![#c78547](https://placehold.it/15/5c6370/000000?text=+) Tussock
+* ![#4e5350](https://placehold.it/15/5c6370/000000?text=+) Nandor
+
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code
