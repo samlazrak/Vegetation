@@ -27,16 +27,16 @@
 
 ### Syntax
 * ![#5c6370](https://placehold.it/15/5c6370/000000?text=+) Asparagus
-* ![#1f1f1f](https://placehold.it/15/5c6370/000000?text=+) Mine Shaft
-* ![#f07178](https://placehold.it/15/5c6370/000000?text=+) Froly
-* ![#ebc17a](https://placehold.it/15/5c6370/000000?text=+) Rob Roy
-* ![#769baa](https://placehold.it/15/5c6370/000000?text=+) Gumbo
-* ![#b06698](https://placehold.it/15/5c6370/000000?text=+) Tapestry
-* ![#9ac2be](https://placehold.it/15/5c6370/000000?text=+) Shadow Green
-* ![#e1f3e7](https://placehold.it/15/5c6370/000000?text=+) Apple Green
-* ![#bb90d8](https://placehold.it/15/5c6370/000000?text=+) Light Wisteria
-* ![#c78547](https://placehold.it/15/5c6370/000000?text=+) Tussock
-* ![#4e5350](https://placehold.it/15/5c6370/000000?text=+) Nandor
+* ![#1f1f1f](https://placehold.it/15/1f1f1f/000000?text=+) Mine Shaft
+* ![#f07178](https://placehold.it/15/f07178/000000?text=+) Froly
+* ![#ebc17a](https://placehold.it/15/ebc17a/000000?text=+) Rob Roy
+* ![#769baa](https://placehold.it/15/769baa/000000?text=+) Gumbo
+* ![#b06698](https://placehold.it/15/b06698/000000?text=+) Tapestry
+* ![#9ac2be](https://placehold.it/15/9ac2be/000000?text=+) Shadow Green
+* ![#e1f3e7](https://placehold.it/15/e1f3e7/000000?text=+) Apple Green
+* ![#bb90d8](https://placehold.it/15/bb90d8/000000?text=+) Light Wisteria
+* ![#c78547](https://placehold.it/15/c78547/000000?text=+) Tussock
+* ![#4e5350](https://placehold.it/15/4e5350/000000?text=+) Nandor
 
 ## Installation
 
