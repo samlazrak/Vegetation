@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://samlazrak.com/vegetation">
+  <a href="https://samlazrak.com/Vegetation">
     <img alt="horizon banner" src="https://i.imgur.com/Ryvww8b.png">
   </a>
 </p>
@@ -37,6 +37,6 @@
 ---
 
 Going to the [marketplace](https://marketplace.visualstudio.com/items?itemName=samlazrak.Vegetation) also works!
-### Visit [samlazrak.com](https://samlazrak.com/vegetation) for previews and a color reference!
+### Visit [samlazrak.com](https://samlazrak.com/Vegetation) for previews and a color reference!
 
 [MIT](LICENSE) © [Sam Lazrak](https://github.com/samlazrak)
